@@ -7,5 +7,5 @@
 - [Netlify](https://www.netlify.com/)
 - [Emotion](https://emotion.sh/)
 - [Offline support](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-offline#readme)
-- [SEO (OpenGraph Tags, Twitter Tags)](src/components/MainLayout/index.js#L195)
+- [SEO (OpenGraph Tags, Twitter Tags)](src/components/SEO.js)
 - [Yarn](https://yarnpkg.com)
