@@ -1,0 +1,52 @@
+{
+  "name": "mwi-essen.de",
+  "private": true,
+  "description": "GaiAma's Gatsby Starter",
+  "version": "1.0.0",
+  "author": "Can Rau @ GaiAma <cansrau@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "starter",
+    "gaiama"
+  ],
+  "scripts": {
+    "dev": "gatsby develop -S",
+    "build": "gatsby build",
+    "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
+    "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "emotion": "^9.2.12",
+    "emotion-server": "^9.2.12",
+    "gatsby": "^2.0.31",
+    "gatsby-image": "^2.0.17",
+    "gatsby-plugin-emotion": "^2.0.5",
+    "gatsby-plugin-manifest": "^2.0.6",
+    "gatsby-plugin-netlify": "^2.0.2",
+    "gatsby-plugin-offline": "^2.0.9",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-source-filesystem": "^2.0.5",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-emotion": "^9.2.12",
+    "react-head": "^3.0.1",
+    "react-helmet": "^5.2.0",
+    "react-modal": "^3.6.1",
+    "react-spring": "^6.1.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "gatsby-plugin-sharp": "^2.0.8",
+    "gatsby-transformer-sharp": "^2.1.5",
+    "prettier": "^1.14.3"
+  }
+}
