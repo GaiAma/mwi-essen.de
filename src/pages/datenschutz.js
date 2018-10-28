@@ -58,6 +58,7 @@ const Privacy = () => (
       <br />
       E-Mail: <a href="mailto:info@mwi-essen.de">info@mwi-essen.de</a>
     </p>
+    <p>Geschäftsführender Gesellschafter: Dr. Michael Curth</p>
     <h3>II. Rechte der Nutzer und Betroffenen</h3>
     <p>
       Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung
@@ -122,34 +123,33 @@ const Privacy = () => (
       Aus technischen Gründen, insbesondere zur Gewährleistung eines sicheren
       und stabilen Internetauftritts, werden Daten durch Ihren Internet-Browser
       an uns bzw. an unseren Webspace-Provider,{' '}
-      <a href="https://www.hosteurope.de">Hosteurope.de</a> übermittelt. Mit
-      diesen sog. Server-Logfiles werden u.a. Typ und Version Ihres
-      Internetbrowsers, das Betriebssystem, die Website, von der aus Sie auf
-      unseren Internetauftritt gewechselt haben (Referrer URL), die Website(s)
-      unseres Internetauftritts, die Sie besuchen, Datum und Uhrzeit des
-      jeweiligen Zugriffs sowie die IP-Adresse des Internetanschlusses, von dem
-      aus die Nutzung unseres Internetauftritts erfolgt, erhoben. Diese so
-      erhobenen Daten werden vorrübergehend gespeichert, dies jedoch nicht
-      gemeinsam mit anderen Daten von Ihnen. Diese Speicherung erfolgt auf der
-      Rechtsgrundlage von Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes
-      Interesse liegt in der Verbesserung, Stabilität, Funktionalität und
-      Sicherheit unseres Internetauftritts. Die Daten werden spätestens nach
-      sieben Tage wieder gelöscht, soweit keine weitere Aufbewahrung zu
-      Beweiszwecken erforderlich ist. Andernfalls sind die Daten bis zur
-      endgültigen Klärung eines Vorfalls ganz oder teilweise von der Löschung
-      ausgenommen.
+      <a href="https://www.netlify.com">Netlify.com</a> übermittelt. Mit diesen
+      sog. Server-Logfiles werden u.a. Typ und Version Ihres Internetbrowsers,
+      das Betriebssystem, die Website, von der aus Sie auf unseren
+      Internetauftritt gewechselt haben (Referrer URL), die Website(s) unseres
+      Internetauftritts, die Sie besuchen, Datum und Uhrzeit des jeweiligen
+      Zugriffs sowie die IP-Adresse des Internetanschlusses, von dem aus die
+      Nutzung unseres Internetauftritts erfolgt, erhoben. Diese so erhobenen
+      Daten werden vorrübergehend gespeichert, dies jedoch nicht gemeinsam mit
+      anderen Daten von Ihnen. Diese Speicherung erfolgt auf der Rechtsgrundlage
+      von Art. 6 Abs. 1 lit. f) DSGVO. Unser berechtigtes Interesse liegt in der
+      Verbesserung, Stabilität, Funktionalität und Sicherheit unseres
+      Internetauftritts. Die Daten werden spätestens nach sieben Tage wieder
+      gelöscht, soweit keine weitere Aufbewahrung zu Beweiszwecken erforderlich
+      ist. Andernfalls sind die Daten bis zur endgültigen Klärung eines Vorfalls
+      ganz oder teilweise von der Löschung ausgenommen.
     </p>
     <h4>Kontaktanfragen / Kontaktmöglichkeit</h4>
     <p>
-      Sofern Sie per Kontaktformular oder E-Mail mit uns in Kontakt treten,
-      werden die dabei von Ihnen angegebenen Daten zur Bearbeitung Ihrer Anfrage
-      genutzt. Die Angabe der Daten ist zur Bearbeitung und Beantwortung Ihre
-      Anfrage erforderlich - ohne deren Bereitstellung können wir Ihre Anfrage
-      nicht oder allenfalls eingeschränkt beantworten. Rechtsgrundlage für diese
-      Verarbeitung ist Art. 6 Abs. 1 lit. b) DSGVO. Ihre Daten werden gelöscht,
-      sofern Ihre Anfrage abschließend beantwortet worden ist und der Löschung
-      keine gesetzlichen Aufbewahrungspflichten entgegenstehen, wie bspw. bei
-      einer sich etwaig anschließenden Vertragsabwicklung.
+      Sofern Sie per E-Mail mit uns in Kontakt treten, werden die dabei von
+      Ihnen angegebenen Daten zur Bearbeitung Ihrer Anfrage genutzt. Die Angabe
+      der Daten ist zur Bearbeitung und Beantwortung Ihre Anfrage erforderlich -
+      ohne deren Bereitstellung können wir Ihre Anfrage nicht oder allenfalls
+      eingeschränkt beantworten. Rechtsgrundlage für diese Verarbeitung ist Art.
+      6 Abs. 1 lit. b) DSGVO. Ihre Daten werden gelöscht, sofern Ihre Anfrage
+      abschließend beantwortet worden ist und der Löschung keine gesetzlichen
+      Aufbewahrungspflichten entgegenstehen, wie bspw. bei einer sich etwaig
+      anschließenden Vertragsabwicklung.
     </p>
     <p>
       <a
