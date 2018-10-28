@@ -1,3 +1,4 @@
+http://mwi-essen.netlify.com/* http://www.mwi-essen.de/:splat 301!
 /index.php    /
 /index.php/leistungen.html    /
 /index.php/objekte.html   /
